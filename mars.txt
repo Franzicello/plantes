@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 We should also consider Venus
-Add new line
+
+=======
+>>>>>>> parent of 0c2ca5b... Add anohter line
 Everything is cold and dry, but everything is my favorite colour
 The two moons may be a problem for Wolfman
 Another change
